@@ -1,0 +1,4 @@
+SampleName	Condition
+test_GFP1	control
+test_p53ptRNA1	treated
+
